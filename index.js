@@ -1,5 +1,5 @@
-const contentLetterSrart_actived = "Ơ. Hôm nay sinh nhật  chị Nhàn à" //Lời mở đầu cho bức thư
-const mainContentLetter = "Chúc chị Nhàn sinh nhật vui vẻ và thành công trong cuộc sống nhé" //Nội dung của bức thư
+const contentLetterSrart_actived = "Ơ. Hôm nay sinh nhật Thủy à!" //Lời mở đầu cho bức thư
+const mainContentLetter = "Chúc mừng sinh nhật Thủy nha. A chúc e tuổi mới thật nhiều sức khỏe, ngày càng xinh gái hơn, luôn luôn vui vẻ, hạnh phúc và gặp nhiều may mắn trong cuộc sống nha 🤭🤭🤭" //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
 let imgStart = document.querySelector(".myAI"); //Hình ảnh xuất hiện trong lời mở đầu của bức thư
